@@ -1,4 +1,4 @@
 # FRG Tool Page
 
-The Page:
+Website: 
 https://harryhastam.github.io/frgp/
