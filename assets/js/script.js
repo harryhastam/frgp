@@ -279,9 +279,9 @@ $(document).on("click", "#copyJson", function (e) {
        
     try {
         navigator.clipboard.writeText(jsonData);
-        alert('Content copied to clipboard');
+        alert('محتوای json کپی شد');
       } catch (err) {
-        alert('Failed to copy: ', err);
+        alert('خطا: ', err);
       }
 
     })
